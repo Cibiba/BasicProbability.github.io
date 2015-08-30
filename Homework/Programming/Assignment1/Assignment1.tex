@@ -1,6 +1,7 @@
 \documentclass[11pt, leqno, a4paper]{article}
 
-\title{Programming Assignment 1 -- Basic Probability, Computing and Statistics 2015}
+\title{Programming Assignment 1 -- Basic Probability, Computing and Statistics 2015 \\[2mm]
+\large{Fall 2015, Master of Logic, University of Amsterdam}}
 \author{}
 \date{To be submitted on Monday, September 7th, 9 a.m.}
 
@@ -13,10 +14,13 @@
 This week we are going to build a first small interactive program. The program is a form of dialogue system. It should ask the user questions,
 store the answer and make inferences about the user based on his answers. Below, we show the system's desired ouput. 
 \begin{itemize}
-\item \textit{Hello, I am} some name of your choice. \textit{What is your name? Please only give me one given name but your entire surname.}
+\item \textit{Hello, I am} some name of your choice. \textit{What is
+    your name? Please not only give me your first name but your entire
+    name (e.g. \emph{Barack Hussein Obama} or \emph{Edward Joseph Snowden}) .}
 \item \textit{It's a pleasure to meet you. What is your birthday}? (specify input format here)
 \item \textit{Do you smoke? (yes/no)}
-\item \textit{Let me test your math skills. What is number1$ * $number2?} Here number1/2 should be \textbf{random} integers between 1 and 1000
+\item \textit{Let me test your math skills. What is number1$ *
+    $number2?} Here number1 and number2 should be \textbf{random} integers between 1 and 1000
 (both inclusive). This means that each time you run the program, this question will look slightly different. We have not discussed random
 numbers in class. Figure out yourself how to get them.
 \item Depending on the correctness of the answer, the program should say one of the following:
@@ -36,6 +40,8 @@ someone else's program, try to break it! This means that you should test limit c
 on more common inputs. In the present case this means that you should first test the program with true information about you but then also with
 information that might be true for other people. For example, identify yourself once as a smoker and once as a non-smoker. Also solve the
 math exercise correctly once and botch it the other time.
+
+\enlargethispage{1cm}
 
 \begin{itemize}
 \item[2 points] All questions show up correctly and in the right order (give full credit when the program output is formulated slightly differently from the one here)
