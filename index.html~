@@ -98,18 +98,18 @@
             <p>Week 2: Theory: Probability spaces, joint probability, conditional probability, marginal
                 probability<br>Programming: Basic Python data structures, iterations and loops</p>
 
-            <p>Week 3: Theory: Chain rule, Bayes' rule, Naive Bayes model<br>Programming: Conditionals, classes and
+            <p>Week 3: Theory: Random Variables, expectation and variance, probability distributions, probability mass
+                functions, cumulative distribution functions, binomial and multinomial distributions<br>Programming: Conditionals, classes and
                 inheritance, the main method</p>
 
-            <p>Week 4: Theory: Random Variables, expectation and variance, probability distributions, probability mass
-                functions, cumulative distribution functions<br>Programming: Python collections and dicussion of when to use
+            <p>Week 4: Theory: Chain rule, Bayes' rule, Naive Bayes model<br>Programming: Python collections and dicussion of when to use
                 which collection</p>
 
-            <p>Week 5: Theory: Binomial and multinomial distributions, their properties and applications<br>Programming:
-                Implementing and sampling from the above distributions</p>
+            <p>Week 5: Theory: Basic of statistics: Motivation, sample means, laws of large numbers<br>Programming:
+                Implementing statistical estimation techniques</p>
 
-            <p>Week 6: Theory: Law of large numbers, statistical estimation, maximum-likelihood principle, expectation
-                maximization, Basics of graphical models and stochastic processes, (hidden) Markov chains<br>
+            <p>Week 6: Theory: Basics of Informatin Theory, maximum-likelihood principle, expectation
+                maximization<br>
                 Programming: Familiarization with Numpy, use of provided probabilty distributions</p>
 
             <p>Week 7, 12 Oct 2015: Presentation of MoL courses using basic probability:<br>
