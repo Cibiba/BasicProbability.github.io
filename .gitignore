@@ -137,3 +137,9 @@ sympy-plots-for-*.tex/
 *.sav
 
 Homework/Theory/.#assignment1.tex
+
+# PHP-Storm
+.idea
+
+
+.idea/workspace.xml
