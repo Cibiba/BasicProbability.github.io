@@ -144,4 +144,8 @@ Homework/Theory/.#assignment1.tex
 
 .idea/workspace.xml
 
+<<<<<<< HEAD
 .idea/workspace.xml
+=======
+*.html~
+>>>>>>> origin/master
